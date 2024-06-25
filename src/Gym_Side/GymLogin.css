@@ -1,0 +1,21 @@
+body {
+    /* background-image: url("../Gym_Side/images/back2.avif"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+    /* opacity: 0.7; */
+}
+
+.card {
+    width: 100%;
+    color: white;
+    opacity: 0.9;
+    max-width: 400px;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: rgb(8, 8, 8);
+}
