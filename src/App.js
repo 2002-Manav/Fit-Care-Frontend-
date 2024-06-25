@@ -28,6 +28,8 @@ const PrivateAuth = ({ children }) => {
   return isAuth() ? children : <Navigate to="/" />;
 };
 
+// Main Function
+
 function App() {
   return (
     <>
